@@ -1,0 +1,9 @@
+---
+published: false
+---
+## A First Post
+
+{: .box-success}
+This is my first post as a graduate student.
+I'm going to take a first class which is data science. 
+I hope I post all of my study on this blog and understood everything. For this Seo's lab, I would like to make it be a basic lab of prof. Seo.
