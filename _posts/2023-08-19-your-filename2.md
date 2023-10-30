@@ -5,9 +5,7 @@ published: true
 title: "SQL"
 # subtitle: "Introduction"
 author:
-    - JungIn Seo^[Institution One, john@example.org]
-    - JeongWook Lee^[Institution Two, john@example.org]
-    - Yeong Eun Jeon^[Institution Two, john@example.org]
+    - JeongWook Lee^[University of Missouri, jlc3q@missouri.edu]
 output:
   html_document:
     theme: flatly
