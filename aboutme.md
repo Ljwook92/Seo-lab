@@ -1,17 +1,20 @@
 ---
 layout: page
-title: About us
-subtitle: Why you'd want to go on a date with me
+title: About me
+subtitle: Jeong Wook Lee
 published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+>Hello, Welcome!
+I'm Lee, and I'm currently studying data science in graduate school.
+This is where I study and share what I have learned. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+##Education   
+**GRADUATE SCHOOL, University of Missouri**
+Data Science & Analytics                      09.2023 -
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**GRADUATE SCHOOL, DAEJEON UNIVERSITY**				
+Statistics		
+	
+**DAEJEON UNIVERSITY**							          
+Department of Business Information Statistics		
