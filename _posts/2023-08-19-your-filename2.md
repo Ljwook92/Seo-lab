@@ -5,7 +5,7 @@ published: true
 title: "SQL"
 # subtitle: "Introduction"
 author:
-    - JeongWook Lee^[University of Missouri, jlc3q@missouri.edu]
+    - JeongWook Lee
 output:
   html_document:
     theme: flatly
@@ -15,21 +15,12 @@ output:
       smooth_scroll: yes
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-> ###### R version 4.3.1/ Rstudio 2023.09.1-494 {#sec-r-version-4.3.1-rstudio-2023.09.1-494}
+> R version 4.3.1/ Rstudio 2023.09.1-494 {#sec-r-version-4.3.1-rstudio-2023.09.1-494}
 >
-> ###### Environment: Mac OS {#sec-environment-mac-os}
+> Environment: Mac OS {#sec-environment-mac-os}
 
--   References
 
-    -   <https://aws.amazon.com/ko/what-is/sql/>
-
-    -   
-
-> #### Contents {style="gray"}
+> Contents {style="gray"}
 
 -   I. Concept
 
