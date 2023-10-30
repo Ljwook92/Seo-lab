@@ -12,8 +12,8 @@ This is where I study and share what I have learned.
 **GRADUATE SCHOOL, University of Missouri**  
 Data Science & Analytics			09.2023 -
 
-**GRADUATE SCHOOL, DAEJEON UNIVERSITY**    				
+**GRADUATE SCHOOL, DAEJEON UNIVERSITY**   
 Statistics		
 	
-**DAEJEON UNIVERSITY**  							          
+**DAEJEON UNIVERSITY**  
 Department of Business Information Statistics		
