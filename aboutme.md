@@ -9,7 +9,7 @@ published: true
 I'm Lee, and I'm currently studying data science in graduate school.  
 This is where I study and share what I have learned.  
   
-##Education   
+**Education**   
 **GRADUATE SCHOOL, University of Missouri**  
 Data Science & Analytics                      09.2023 -
 
