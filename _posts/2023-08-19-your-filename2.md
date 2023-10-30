@@ -4,8 +4,7 @@ published: true
 ---
 title: "SQL"
 # subtitle: "Introduction"
-author:
-    - JeongWook Lee
+author:JeongWook Lee
 ---
 
 > R version 4.3.1/ Rstudio 2023.09.1-494 {#sec-r-version-4.3.1-rstudio-2023.09.1-494}
