@@ -7,12 +7,7 @@ title: "SQL"
 author:
     - JeongWook Lee
 output:
-  html_document:
-    theme: flatly
-    toc: yes
-    toc_float:
-      collapsed: yes
-      smooth_scroll: yes
+  html_document
 ---
 
 > R version 4.3.1/ Rstudio 2023.09.1-494 {#sec-r-version-4.3.1-rstudio-2023.09.1-494}
